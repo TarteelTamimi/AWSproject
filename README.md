@@ -9,6 +9,12 @@
    
    ![image](https://github.com/TarteelTamimi/AWSproject/assets/127000629/98889d09-007a-4362-9397-8bd650c19de6)
 
+4. create the init script
+
+   
+
+   
+
    
 
 
